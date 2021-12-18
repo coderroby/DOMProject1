@@ -1,0 +1,8 @@
+1. install Git CLI
+	-- winget install --id GitHub.cli
+	-- open git CMD
+	--  open derctory where you can to create new Repo
+		--git init -b main
+		--gh repo create Repository Name --public
+		-- git remote add <name> <url> 
+		-- git push --set-upstream DOMProject1 main
